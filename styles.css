@@ -1,0 +1,33 @@
+.wish1 {
+    width: 100px;
+    height: 100px;
+}
+.wish2 {
+    width: 100px;
+    height: 100px;
+    
+}
+.wish3 {
+    width: 100px;
+    height: 100px;
+}
+.wish4 {
+    width: 100px;
+    height: 100px;
+}
+.Wishlist{
+    display:flex;
+    text-align:center;
+    
+}
+body{
+background:url("https://cdn.abcotvs.com/dip/images/5679216_110719-cc-ss-christmas-presents-generic-img.jpg");    
+}
+.border{
+    border:1px solid black;
+    padding:5px;
+    margin:5px;
+}
+img{
+    width:400px;
+}
